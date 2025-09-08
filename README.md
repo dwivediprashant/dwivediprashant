@@ -26,10 +26,10 @@
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwivediprashant&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwivediprashant&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="147" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=dwivediprashant&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwivediprashant&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dwivediprashant&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&cache_seconds=600" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwivediprashant&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2&cache_seconds=600" height="147" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=dwivediprashant&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3&cache_seconds=600" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwivediprashant&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false&cache_seconds=600" height="300" alt="activity-graph graph"  />
 </div>
 
 
