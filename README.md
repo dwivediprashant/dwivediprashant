@@ -50,7 +50,7 @@
   <a href="mailto:prashantdwivedi.0219@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="26" alt="Gmail"  />
   </a>
-  <a href="https://www.linkedin.com/in/dwivediprashant" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="26" alt="LinkedIn"  />
   </a>
 </p>
