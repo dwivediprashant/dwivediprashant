@@ -10,7 +10,7 @@
     <td width="30"></td>
     <td>
       <p align="left" style="font-family: Roboto, monospace;">
-        Hello! Passionate AIML Student & MERN Full Stack Developer.<br>
+         Passionate AIML Student & MERN Full Stack Developer.<br>
 I architect and implement solutions using <b>Machine Learning, Artificial Intelligence, and modern Web technologies</b>.<br>
 I continuously expand my expertise by <b>developing real-world projects, excelling in hackathons, and contributing through internships</b>.
       </p>
