@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td>
-      <img height="200" src="https://media.tenor.com/_Iw9VZrRHPEAAAAM/hacker-ascii.gif" />
+      <img height="200" src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" />
     </td>
     <td width="30"></td>
     <td>
