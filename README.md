@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td>
-      <img height="200" src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" />
+      <img height="200" src="https://analyticsindiamag.com/wp-content/uploads/2021/08/ml-cybersecurity.gif" />
     </td>
     <td width="30"></td>
     <td>
