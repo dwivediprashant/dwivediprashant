@@ -5,10 +5,6 @@
 <table align="center">
   <tr>
     <td>
-      <img height="200" src="https://analyticsindiamag.com/wp-content/uploads/2021/08/ml-cybersecurity.gif" />
-    </td>
-    <td width="30"></td>
-    <td>
       <p align="left" style="font-family: Roboto, monospace;">
         AIML Student | MERN Full-Stack Developer | Open-Source Contributor
       </p>
