@@ -55,18 +55,20 @@
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/dwivediprashant/dwivediprashant/main/pacman-contributions.svg" alt="Pac-Man Contribution Graph" width="1000" height="500"/>
 </p> -->
+
+
+
+
 ![dwivediprashant](game.gif)
 
----
 
 
----
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:prashantdwivedi.0219@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="26" alt="Gmail"  />
   </a>
   <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="26" alt="LinkedIn"  />
   </a>
-</p>
+</p> -->
