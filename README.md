@@ -52,9 +52,10 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/dwivediprashant/dwivediprashant/main/pacman-contributions.svg" alt="Pac-Man Contribution Graph" width="1000" height="500"/>
-</p>
+</p> -->
+![dwivediprashant](game.gif)
 
 ---
 
