@@ -18,7 +18,7 @@
 -  MERN Full Stack Developer    
 -  ODOO Hackathon Finalist at CGC , Mohali (Punjab)
 -  Voidhacks 7.O Finalist at SVVV , Indore (MP)
--  Exploring machine learning (Present)
+-  Enrolled in machine learning course (Present)
 - Portfolio : https://dwivediprashant.github.io/portfolio/
 - Leetcode : https://leetcode.com/u/dwivediprashant/
 
