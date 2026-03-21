@@ -23,7 +23,8 @@
 - Leetcode : https://leetcode.com/u/dwivediprashant/
 
 # GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dwivediprashant&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=dwivediprashant&theme=darkhub&margin-w=15)](https://github-profile-trophy-tawny.vercel.app/)
 
 
 # Tech Stack:
