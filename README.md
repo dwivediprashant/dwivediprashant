@@ -22,9 +22,9 @@
 - Portfolio : https://dwivediprashant.github.io/portfolio/
 - Leetcode : https://leetcode.com/u/dwivediprashant/
 
-# GitHub Trophies
+<!-- # GitHub Trophies
 
-[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=dwivediprashant&theme=darkhub&margin-w=15)](https://github-profile-trophy-tawny.vercel.app/)
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=dwivediprashant&theme=darkhub&margin-w=15)](https://github-profile-trophy-tawny.vercel.app/) 
 
 
 # Tech Stack:
@@ -50,10 +50,10 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwivediprashant&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+</div> -->
 
 
 
@@ -64,7 +64,7 @@
 
 
 
-![dwivediprashant](game.gif)
+ <!-- ![dwivediprashant](game.gif)
 
 
 
