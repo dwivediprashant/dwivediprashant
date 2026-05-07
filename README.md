@@ -14,13 +14,15 @@
 
 ## Abstract
 
--  Rank - 3 Open source contributor at IIIT-A Opencode'25  
--  MERN Full Stack Developer    
+-  Rank - 3 Open source contributor at IIIT-A Opencode'25
+   - Leaderboard : https://opencode25.geekhaven.in/user/leaderboard/opencode
+
+-  NPTEL top 5% and Elite & Silver certified in DBMS subject
+-  Certified MERN Full Stack Developer   
 -  ODOO Hackathon Finalist at CGC , Mohali (Punjab)
 -  Voidhacks 7.O Finalist at SVVV , Indore (MP)
--  Enrolled in machine learning course (Present)
-- Portfolio : https://dwivediprashant.github.io/portfolio/
-- Leetcode : https://leetcode.com/u/dwivediprashant/
+-  Portfolio : https://dwivediprashant.github.io/portfolio/
+-  Leetcode : https://leetcode.com/u/dwivediprashant/
 
 <!-- # GitHub Trophies
 
