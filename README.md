@@ -1,3 +1,4 @@
+
 <p align="center">
   <h1>Prashant Kumar Dwivedi</h1>
 </p>
@@ -6,7 +7,7 @@
   <tr>
     <td>
       <p align="left" style="font-family: Roboto, monospace;">
-        AIML Student | MERN Full-Stack Developer | Open-Source Contributor
+        Open-Source Contributor ||  NPTEL 5% topper(SQL DBMS) || Interned at : MANIT bhopal, LNCT bhopal, Edunet 
       </p>
     </td>
   </tr>
@@ -21,6 +22,10 @@
 -  Certified MERN Full Stack Developer   
 -  ODOO Hackathon Finalist at CGC , Mohali (Punjab)
 -  Voidhacks 7.O Finalist at SVVV , Indore (MP)
+-  NPM profile :
+   <img width="45" height="45" alt="npm_icon_146141" src="https://github.com/user-attachments/assets/caf21f30-509c-4050-8d1f-39acc8c518fd" />
+    https://www.npmjs.com/~dwivediprashant
+
 -  Portfolio : https://dwivediprashant.github.io/portfolio/
 -  Leetcode : https://leetcode.com/u/dwivediprashant/
 
